@@ -6,11 +6,20 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
+a,h2 {
   color: inherit;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.login-box{
+  position: absolute;
+  width: 509px;
+  height: 694px;
+  left: 389px;
+  top: 26px;
+  background: #ff0000;
 }
